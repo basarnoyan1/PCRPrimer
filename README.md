@@ -1,4 +1,3 @@
 # PCRPrimer
 
-
-![Table](codon_table.jpg)
+<img src="codon_table.jpg" width="450">
