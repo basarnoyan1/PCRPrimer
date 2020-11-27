@@ -1,3 +1,1 @@
 # PCRPrimer
-
-![Table](table.jpg)
